@@ -1,7 +1,9 @@
 package com.example.CrudApplication.model;
 
-import jakarta.persistence.*;
+
 import lombok.*;
+
+import javax.persistence.*;
 
 @Entity
 @Table(name="Books")
